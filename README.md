@@ -13,6 +13,8 @@
   - [ebuy web app](https://bitbucket.org/giovannigrillo-ws/ebuy_v3_db/src/main/)
 - <b> Open Auth 2.0 (Client - Server Authentication with browser in Python using Flask e PostgreSQL) </b>
   - [OpenAuth2.0](https://bitbucket.org/giovannigrillo-ws/unit5_python/src/master/Progetto%20OpeAuth2/pythonJsonWithOAuth2/pythonJsonWithOAuth2/)
+- <b> Governance Risk and Compliance Active Directory project work (Audit process with respect to ISO 27001 and NIST frameworks) </b>
+  - [Active Directory GRC](https://github.com/gv112358/GRC)
 
 <h2>👨‍💻 Some Certifications in Cybersecurity:</h2>
 

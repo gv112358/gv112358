@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Giovanni</h1>
+<h1 align="center">01001000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100 00100001  👋 I'm Giovanni</h1>
 <h3 align="center">ITS student in <br/><a href="https://github.com/gv112358">Cybersecurity</a> and <a href="https://bitbucket.org/giovannigrillo-ws/workspace/projects/">Datascience</a></h1></h3>
 
 <h2>👨‍💻 Some Projects and Notes:</h2>

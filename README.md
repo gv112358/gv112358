@@ -5,6 +5,8 @@
 
 - <b>Network Traffic Analyzer (In Python using Scapy, Pandas, Matplotlib) </b>
   - [Praciting traffic Analysis](https://github.com/gv112358/Network-Traffic-Analyzer)
+- <b>Face Detection and Recognition (In Python using OpenCV) </b>
+  - [Face Detect and Recon](https://github.com/gv112358/AI-Machine-Learning/tree/main/AI6/unita6_ai/Face%20Recognition)
 - <b>Network Exploration and Assessment with **Nmap**</b>
   - [Network Exploration](https://github.com/gv112358/Network-Exploration)
 - <b>Titanic Dataset Analysis with KNN algorithm (Machine learning with Python, Pandas, Matplotlib) </b>
@@ -25,9 +27,9 @@
 
 <h2>👨‍💻 About me </h2>
 
-- 🔭 I’m currently working on **eJPT** certification, bulding up the required skills for **OSCP**
-- 🌱 I’m currently interested in the applications of AI and Machine Learning in Cybersecurity
-- 👯 I’m open for entry level positions in cybersecurity, datascience or software development (Main Languages: **Python, Java, Javascript, Typescript, SQL**)
+- 🔭 Currently working on **eJPT** certification, bulding up the required skills for **OSCP**
+- 🌱 Interested in the applications of AI and Machine Learning in Cybersecurity
+- 👯 Open for entry level positions in cybersecurity, datascience or software development (Main Languages: **Python, Java, Javascript, Typescript, SQL**)
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">

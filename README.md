@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Some Projects and Notes:</h2>
 
+- <b>Network IDS (In Python using Seaborn, Sklearn, Pandas, Matplotlib) </b>
+  - [IDS Simulation](https://github.com/gv112358/AI-Machine-Learning/tree/main/AI6/unita6_ai/Network%20IDS)
 - <b>Network Traffic Analyzer (In Python using Scapy, Pandas, Matplotlib) </b>
   - [Praciting traffic Analysis](https://github.com/gv112358/Network-Traffic-Analyzer)
 - <b>Face Detection and Recognition (In Python using OpenCV) </b>

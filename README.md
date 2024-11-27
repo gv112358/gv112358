@@ -4,7 +4,7 @@
 <h2>👨‍💻 Some Projects and Notes:</h2>
 
 - <b> Data Analytics in Insurance (In Python using Numpy, Pandas, Matplotlib) </b>
-  - [Insurance Data Analysis]([https://github.com/gv112358/AI-Machine-Learning/tree/main/AI6/unita6_ai/Network%20IDS](https://github.com/gv112358/AI-Machine-Learning/blob/main/Data%20Analytics%20in%20Insurance.ipynb))
+  - [Insurance Data Analysis](https://github.com/gv112358/AI-Machine-Learning/blob/main/Data%20Analytics%20in%20Insurance.ipynb)
 - <b>Network IDS (In Python using Seaborn, Sklearn, Pandas, Matplotlib) </b>
   - [IDS Simulation](https://github.com/gv112358/AI-Machine-Learning/tree/main/AI6/unita6_ai/Network%20IDS)
 - <b>Network Traffic Analyzer (In Python using Scapy, Pandas, Matplotlib) </b>
